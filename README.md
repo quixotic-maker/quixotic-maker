@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quixotic-maker" alt="quixotic-maker" /></a> </p>
 
-- 🔭 I’m currently working on [robomaster auto aim](https://github.com/quixotic-maker/auto_aim)
+- 🔭 I’m currently working on [AI agent](https://github.com/quixotic-maker/Jarvis-ai)
 
 - 🌱 I’m currently learning **AI & Mechanisms and Machine Theory**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Embodied AI , software development and Deep Learning.**
 
-- 📫 How to reach me **18092288389@163.com**
+- 📫 How to reach me **quixoticmaker@163.com**
 
 - 📄 Know about my experiences [zz.me](zz.me)
 
