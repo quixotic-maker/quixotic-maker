@@ -52,9 +52,6 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quixotic-maker&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="quixotic-maker stats" width="48%" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quixotic-maker&theme=transparent&hide_border=true" alt="quixotic-maker streak" />
 </p>
 
