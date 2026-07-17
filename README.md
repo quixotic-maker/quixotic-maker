@@ -60,12 +60,3 @@
 </p>
 
 <br>
-
-### ☕ Connect & Support
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/zz"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy me a coffee" />
-  </a>
-</p>
-<br><br>
