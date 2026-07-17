@@ -12,8 +12,8 @@
 
 ### 🔭 Current Focus & Projects
 
-*   🤖 **Jarvis (Multi-Agent Orchestration):** Architecting a backend system driven by two-stage intent recognition and asynchronous task engines to orchestrate 18+ domain-specific agents. `[Private Repository]`
-*   🦾 **My Heart (Desktop Companion Robot):** Designing a closed-loop edge interaction system that translates LLM semantics into physical dual-axis servo movements with millisecond latency. `[Private Repository]`
+*   🤖 **Jarvis (Multi-Agent Orchestration):** Architecting a backend system driven by two-stage intent recognition and asynchronous task engines to orchestrate 18+ domain-specific agents. 
+*   🦾 **My Heart (Desktop Companion Robot):** Designing a closed-loop edge interaction system that translates LLM semantics into physical dual-axis servo movements with millisecond latency. 
 *   🧠 **Deep Diving into:** VLA (Vision-Language-Action) Models, Edge Deployment (CUDA/TensorRT), and Multi-Agent Systems.
 *   📝 **Writing about:** AI product teardowns and system architecture on [quixotic-maker.github.io](https://quixotic-maker.github.io)
 *   📫 **Reach me at:** quixoticmaker@163.com
